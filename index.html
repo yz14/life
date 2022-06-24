@@ -5,7 +5,7 @@
 layout: default
 ---
 {% include hero.html %}
-{% include info-box.html %}
+<!-- {% include info-box.html %} -->
 
 {% if paginator.page %}
   {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
@@ -63,4 +63,4 @@ layout: default
   </div> <!-- /.wrapper -->
 </div> <!-- /.content-wrap -->
 
-{% include pagination.html %}
+<!-- {% include pagination.html %} -->
