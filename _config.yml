@@ -1,13 +1,13 @@
 # Site settings
-title: Lokmont
-description: Lokmont is a responsive simple theme for Jekyll.
+title: 生活
+description: 生活页
 baseurl: "/life" # the subpath of your site, e.g. /blog
 url: "https://yz14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero-title: 热爱生活，记录生活。
+hero-description: 永远充满活力，永远充满激情
 
 # Author - Creator
 author-name: Ben Campbell
